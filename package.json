@@ -1,0 +1,17 @@
+{
+  "name": "music-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx codeceptjs run --steps",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.0.2",
+    "puppeteer": "^5.5.0"
+  }
+}
